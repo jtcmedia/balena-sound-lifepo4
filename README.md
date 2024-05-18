@@ -6,7 +6,7 @@ To Build and Deploy:
 
 then:
 
-`balena push balena-sound-lifepo4 --registry-secrets .\secrets.yml
+`balena push balena-sound-lifepo4 --registry-secrets secrets.yml`
 
 To update each project (git submodule), run in root of project:
 `git submodule update --remote --merge`
