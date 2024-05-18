@@ -1,0 +1,6 @@
+[submodule "balena-sound"]
+	path = balena-sound
+	url = git@github.com:balenalabs/balena-sound.git
+[submodule "LiFePO4wered-Pi"]
+	path = LiFePO4wered-Pi
+	url = git@github.com:xorbit/LiFePO4wered-Pi.git
